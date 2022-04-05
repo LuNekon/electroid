@@ -1,7 +1,13 @@
-.menu
-{
+body{
     color:rgb(255, 255, 255); /* font color */
     background-color: rgb(14, 21, 41);
+}
+
+.menu
+{
+    margin-left: auto;
+    margin-right: auto;
+    width: 6em
     /*background-image:url(images/image_de_fond.png);*/
 }
 .reg1
