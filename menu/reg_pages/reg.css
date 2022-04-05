@@ -1,0 +1,67 @@
+.menu
+{
+    color:rgb(255, 255, 255); /* font color */
+    background-color:rgb(35, 204, 134);
+    /*background-image:url(images/image_de_fond.png);*/
+}
+
+.reg1
+{
+    background: url(./reg_img/1.png) no-repeat center center fixed;
+    background-size: contain;
+    background-color: rgb(14, 21, 41);
+}
+.reg2
+{
+    background: url(./reg_img/2.png) no-repeat center center fixed;
+    background-size: contain;
+    background-color: rgb(14, 21, 41);
+}
+.reg3
+{
+    background: url(./reg_img/3.png) no-repeat center center fixed;
+    background-size: contain;
+    background-color: rgb(14, 21, 41);
+}
+.reg4
+{
+    background: url(./reg_img/4.png) no-repeat center center fixed;
+    background-size: contain;
+    background-color: rgb(14, 21, 41);
+}
+.reg5
+{
+    background: url(./reg_img/5.png) no-repeat center center fixed;
+    background-size: contain;
+    background-color: rgb(14, 21, 41);
+}
+.reg6
+{
+    background: url(./reg_img/6.png) no-repeat center center fixed;
+    background-size: contain;
+    background-color: rgb(14, 21, 41);
+}
+.reg7
+{
+    background: url(./reg_img/7.png) no-repeat center center fixed;
+    background-size: contain;
+    background-color: rgb(14, 21, 41);
+}
+.reg8
+{
+    background: url(./reg_img/8.png) no-repeat center center fixed;
+    background-size: contain;
+    background-color: rgb(14, 21, 41);
+}
+.reg9
+{
+    background: url(./reg_img/9.png) no-repeat center center fixed;
+    background-size: contain;
+    background-color: rgb(14, 21, 41);
+}
+.reg10
+{
+    background: url(./reg_img/10.png) no-repeat center center fixed;
+    background-size: contain;
+    background-color: rgb(14, 21, 41);
+}
