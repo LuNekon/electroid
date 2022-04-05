@@ -10,7 +10,7 @@ It's fan made html project of the E-Handbook thing in the Danganronpa's video ga
 
 **FR: Oui je sais pour le moment c'est absolument horrible, il y a beaucoup trop de pages html. Mais c'est que la première étape : Construire une fondation et après, faire quelques optimisations et apprendre le javascript !**
 
-# Feature reviews
+# Basis feature reviews
 
 ## Map 
 
@@ -43,3 +43,8 @@ Design work in progress. Feature do not exist in the original serie.<br>
 ## *Truth bullets*
 
 wip
+
+# Where i am ?
+
+### Regulations
+<img src="https://github.com/LuNekon/electroid/blob/main/src_img/Sans%20titre.png" width=400> → <img src="https://github.com/LuNekon/electroid/blob/main/src_img/Sans%20titre.png" width=400> 
