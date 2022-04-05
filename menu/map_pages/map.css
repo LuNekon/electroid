@@ -1,0 +1,18 @@
+.menu
+{
+    color:rgb(255, 255, 255); /* font color */
+    background-color: rgb(14, 21, 41);
+    /*background-image:url(images/image_de_fond.png);*/
+}
+.map1
+{
+    background: url(./maps_img/Academie_1F.png) no-repeat center center fixed;
+    background-size: contain;
+    /*background-color: rgb(14, 21, 41);*/
+}
+.map2
+{
+    background: url(./maps_img/Academy_2F.png) no-repeat center center fixed;
+    background-size: contain;
+    background-color: rgb(255, 234, 252);
+}

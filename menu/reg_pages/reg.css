@@ -1,10 +1,9 @@
 .menu
 {
     color:rgb(255, 255, 255); /* font color */
-    background-color:rgb(35, 204, 134);
+    background-color: rgb(14, 21, 41);
     /*background-image:url(images/image_de_fond.png);*/
 }
-
 .reg1
 {
     background: url(./reg_img/1.png) no-repeat center center fixed;
