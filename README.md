@@ -14,7 +14,7 @@ It's fan made html project of the E-Handbook thing in the Danganronpa's video ga
 
 ## Map 
 
-<img src="https://gameuidatabase.com/uploads/Danganronpa-V3-Killing-Harmony05262020-041714.jpg" width=400> <img src="https://github.com/LuNekon/electroid/blob/main/src_img/carte.png" width=400>
+<img src="https://gameuidatabase.com/uploads/Danganronpa-V3-Killing-Harmony05262020-041714.jpg" width=400> <img src="https://github.com/LuNekon/electroid/blob/main/src/carte.png" width=400>
 
 Show the map of the place and people's position in the series.<br>
 **FR: Montre la carte de l'endroit et la position des gens dans la série**
@@ -35,7 +35,7 @@ Always regluations in school. An adivice: here, don't break the rules.<br>
 
 ## Phone
 
-<img src="https://github.com/LuNekon/electroid/blob/main/src_img/rep.png" width=400>
+<img src="https://github.com/LuNekon/electroid/blob/main/src/rep.png" width=400>
 
 Design work in progress. Feature do not exist in the original serie.<br>
 **FR: Design en cours. Fonction qui n'existe pas dans la série originale.**
@@ -43,8 +43,3 @@ Design work in progress. Feature do not exist in the original serie.<br>
 ## *Truth bullets*
 
 wip
-
-# Where i am ?
-
-### Regulations
-<img src="https://github.com/LuNekon/electroid/blob/main/src_img/Sans%20titre.png" width=400> → <img src="https://github.com/LuNekon/electroid/blob/main/src_img/Sans%20titre.png" width=400> 
